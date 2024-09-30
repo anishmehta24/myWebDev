@@ -61,8 +61,14 @@
 
 .about__image{
    border-radius: 10% ;
+
+  
 }
 
+.links{
+  display: flex;
+  gap: 1rem;
+}
 
 
 
